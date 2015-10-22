@@ -1,0 +1,1762 @@
+0:00
+while cut greatest applause ever
+0:03
+well okay so we'll try this one again
+0:06
+you I am and what I'm going to be talking about its so
+0:09
+my name as was very kindly mention is recalling a smack me or how the spiny
+0:13
+depending on which country I'm in and
+0:15
+what people  saying I live in South African Pittsburg Bay you don't
+0:19
+need to remember that there won't be a test
+0:21
+yes and you may know me if you see me on reddit to Twitter you may know me as
+0:25
+fluffy pony
+0:26
+the and that's a discussion for another time so today I may be talking a little
+0:30
+bit about why privacy matters
+0:32
+I we can talk about fifty Shades a privacy because obviously it is a
+0:35
+concern is not so I'll
+0:37
+solutions are not very good solutions as well
+0:41
+and in what manner is and does I the people behind in a row
+0:45
+how we're trying to make it useful and usable and the future Mineiro
+0:49
+so each Srey privacy matters
+0:52
+so this is the popular we don't talk about drugs is otherwise
+0:56
+you know Mike is a little more privacy than that
+1:00
+because the thing is privacy is not just a criminal's
+1:04
+privacy so everyone is actually important everyone she for example in
+1:07
+this is just talking about transactional privacy
+1:10
+if you don't have private transactions then
+1:13
+you could have admitted myspace your spending habits
+1:16
+you could have crime that's targeted against the wealthy
+1:19
+and they know how much money you have and when you have it as opposed to
+1:23
+indirectly being able to view
+1:25
+what you have they could be unintended unintended any kids are sorted
+1:29
+purchases so the people at work know that you went around the corner and
+1:32
+bolted
+1:33
+bought a dildo and thats terrible its or you could have unwitting accomplices
+1:37
+complicity in criminal acts which of course is a big one in pat Quinn
+1:41
+you could receive coins that come from
+1:44
+the evolution exits care more from some exchange biased
+1:48
+and now suddenly you are the proud owner of some tainted but quite
+1:52
+and that's suddenly terrible because what open exchange that you wanna
+1:55
+deposit those coins to sis sorry we no longer exits
+1:59
+those claims no matter how far down the line it is
+2:02
+the if %uh sorry for taking any you know but
+2:05
+she and then of course is minor I'm censorship based on recipient we've
+2:09
+already seen this some
+2:10
+with but coin that some node since the I'm transactions that taught to or from
+2:16
+so touchy dice
+2:17
+and that's also you know ready quite frankly you
+2:21
+if somebody wants to gamble on SEDAR she die side in the minors have the right to
+2:24
+censor it but Nate
+2:26
+and it could reveal sensitive business relationship so I'm
+2:29
+it's it's all fine and well being able to know who the suppliers in the supply
+2:32
+chain of but you know when your competitor can see that
+2:35
+that's not great and for the same reason that's not ideal to leak salaries profit
+2:40
+margins and revenue a
+2:41
+so it on winning the topic of privacy comes up then but I my pet peeves comes
+2:47
+up as well which is the un-backed
+2:49
+and this happens a lot too but Quinn conferences people go its
+2:52
+all we're bringing back went to Africa I could no you're not
+2:56
+because the reality is that people in Africa and banks in Africa which makes
+3:00
+up 80 percent
+3:01
+I'll the sub-sahara population $326 million un-backed adults
+3:06
+they actually want to be on banks they'd
+3:09
+don't want to go and something money in a bank even though the
+3:13
+ability is they because they don't want the tax man to know and they don't want
+3:17
+sometimes appear taxi driver and you're part of the
+3:20
+you know you gotta affiliates owned by one guy you know when to bust a nut
+3:24
+like how much money you taking any because just skimming of the top
+3:28
+now you got a taxi driver and said let me tell you what did go in and
+3:31
+he's not KK because a it's difficult but
+3:35
+even if you get past that she doesn't want people to know what he's taking in
+3:39
+and what he's spending is
+3:41
+and and the caches amazing action and the context of the Africa is great
+3:45
+because it's Jeannie
+3:46
+Boston
+3:47
+most people will agree basically has no fees
+3:50
+the the issue that no one has sold until
+3:53
+more recently he is that cash let you operate private key
+3:57
+now 0 obviously we had a little bit earlier at about time
+4:01
+a very famous person I'm charm and we gonna get him in a moment's
+4:05
+cause he created love the breasts
+4:08
+private electronic cash and systems but
+4:11
+the issue that you have is that people don't KS
+4:14
+because as long as they can take bomb bull they're happy to give up that
+4:18
+their privacy and so this was a very interesting study called public
+4:22
+perceptions of privacy and security in the post snowed in the area
+4:25
+was conducted by Pew Research Center and they went around in the interview did
+4:29
+thousands of American adults and they say to them
+4:32
+amiss list of things to us which have them is very privates to you
+4:37
+and you know you start up for the topic a merican then they got social security
+4:41
+number that's critical because if they reveal that
+4:44
+their shrewd and people can take the social security number and open the
+4:47
+council get loans up
+4:48
+all I wanted to your emails you okay depaz would you be sent
+4:52
+on our somebody reads my emails is it that bad
+4:55
+all you dont like religious use 22 percent you know
+5:00
+the back at the day but to basic purchasing habits
+5:03
+a he said rest ninety-two percent a laquelle
+5:06
+can i play Fall Ball show up have my basic purchasing habits
+5:10
+but 0 the reality us is that perceptions are changing
+5:15
+and this is especially true amongst the coin is so going back to Tom
+5:18
+this is a great quote on reddit that spoke about however try cash is easy
+5:23
+Facebook candidates and private electronic cash is also not too
+5:26
+difficult because that was done in the nineties and
+5:29
+the story building but decentralized electronic cash is is tricky but
+5:33
+you know a bit consulted that'll the next day is decentralized private
+5:37
+electronic cash and that is the hottest the mall
+5:40
+now 0
+5:42
+nothing is we know what we once we want to
+5:46
+private when a cash but there lotsa solutions and a lot of people
+5:50
+according to have solutions to this and so
+5:54
+nothing is there been a buncha 10 said the Queen privacy
+5:58
+and some to a greater or lesser degree Mb mildly successful or unsuccessful
+6:02
+so the most common one is mixing and mixing is
+6:06
+kinda crummy because effectively what you're doing is you're saying a
+6:09
+a Los Angeles service please take my money and promise it'll give me some
+6:13
+money back
+6:14
+that is same but not the Saints and
+6:17
+relying on that as a solution well you know people have been burnt no continue
+6:22
+to be done its
+6:23
+going joined I'm is a a ready ready great
+6:27
+idea by Greg Maxwell the downside to call in join is that being ready bad
+6:31
+implementation is so shady point for example
+6:33
+was block Jenna impose implementation leg problems
+6:37
+I'm you know compete the like need the privacy that
+6:41
+said it had it didn't have I'm going Jones to do 'cause proved that wrong
+6:46
+then you got da call it also it you know and like finally maybe possibly a really
+6:50
+good point joint implementation but
+6:52
+Dockweiler just not getting traction from a development suspected
+6:56
+and just salute like sitting and and
+6:59
+you know the the lead developer disappears and then comes back and then
+7:02
+me attack he's not available wages because see some old
+7:06
+all summer doing something as it is an attraction is no development and
+7:10
+you know it was mister a line thus far privacy it's concerning
+7:13
+and then US a more recent join markets which I really like trying markets
+7:17
+basically like that to end up going join transactions
+7:20
+because what it does it hooks you up with somebody else that also once a day
+7:24
+according to a transaction
+7:25
+and it's all decentralized is no centralized the a server
+7:29
+and that's kinda bandied but the problem with that is that it's still limited
+7:34
+because all of these try to solve the privacy problem
+7:37
+but they don't solve the fund's ability issue and that goes back to what the
+7:41
+previous speaker was saying
+7:43
+about the finding money
+7:44
+help but point is not anonymous in up another the solutions change that
+7:49
+because that doesn't magically make pat Quinn fungible
+7:52
+okay
+7:56
+little posted being scam coin site old coins and alternatives
+8:00
+and the reason that most in the beans dams because developing decentralize
+8:04
+security software
+8:05
+is a lot harder than most people imagine so you got a non-core in which is not a
+8:10
+scam I
+8:10
+I quite like an ongoing guys but that was the first
+8:13
+and it was the one that was going to bring anonymous he
+8:17
+the crypto orchard to start to cook the currency transactions
+8:21
+and and also I mean they're just haven't had never really got off the ground they
+8:25
+did some cool stuff they
+8:26
+they did recited P integration forget the currency
+8:29
+but then beyond that they stumbled in there so said well we're gonna 20 cash
+8:34
+but then we're not going it is your cash in
+8:35
+no I'm ready knows what's happening its then you've got
+8:39
+some da plane dash Colleen I don't even know what they call today
+8:43
+and and apart from being plagued with very many problems like
+8:48
+and a pre mine and very very broken prufer were called a rhythm that just
+8:53
+slaps
+8:54
+all soft three candidates in a row in says its be made in you
+8:57
+then you order them those I'm they've got the single
+9:01
+things calm asta notes and now you're supposed to trust your privacy
+9:05
+J a buncha people running Austinites honey concerning it doesn't matter how
+9:09
+many of those they all are many
+9:11
+lost notes that appear to be but back to the matter is
+9:15
+there is one guy who owns 20 percent to the moss to its
+9:18
+and like that means that statistically speaking even if we're only talking
+9:22
+probabilities
+9:24
+your transaction which is meant to be private could poss to you
+9:28
+must nights and his control and that's not acceptable
+9:31
+then you got considered coins and mirror is
+9:34
+was originally a Krypton ok when the problem with alternative
+9:37
+all other kryptonite coins is there not keeping up to date with the things that
+9:41
+mean there are you doing they're not 0
+9:43
+reading a research paper is you're putting out to making adjustments
+9:45
+accordingly
+9:47
+and that mean they're also going to be stuck in the past with privacy that was
+9:50
+good but is not going to be getting up late Ron
+9:53
+I'll and then of course if you visit the Queen talk and
+9:56
+reading your posts is always a new Queen B
+10:00
+pushed that contains the sold everything in the world
+10:04
+but meanwhile turns out to be a scam and you'll find that a lot of them
+10:08
+navajo point and whatever when you actually go and look at what they're
+10:12
+doing they're just having a centralized mix under their control
+10:15
+so it's not even me yes it did ready is just
+10:18
+privacy theater all is no real privacy that
+10:21
+says now Paul you get to the cream of the crop
+10:25
+and ready when we're talking about good to currency
+10:28
+I'm the and look at the currency in general but you're talking about
+10:32
+you know which currency that is buckling like and Andrew talking about on sexual
+10:36
+privacy
+10:37
+they're ready only three currencies that week that weekend to talk about
+10:40
+miss but quite now pat Quinn is
+10:43
+it is fantastic and I really like that kind
+10:47
+downside all transaction date is visible all
+10:50
+upside it's all tested reviewed Republic PG&E
+10:54
+okay downside your privacy relies on the OPSEC about others all
+10:59
+upside well was not another upset that I could put on there
+11:02
+another downside is that privacy related features the late on know even now
+11:07
+days massive massive political hurdles
+11:10
+on Mon but Khan site adding them if somebody had to go along and submit a
+11:13
+pull request today
+11:14
+but added tons a transactional piracy to the Queen
+11:17
+it would face very strong pushback from a lot of people
+11:21
+just because of the the current standing in nature but going
+11:25
+then you got me in a row and will who get into details about what Minera does
+11:30
+and how it works
+11:31
+but your transaction data is not publicly visible at Sony bustle
+11:35
+by choice by you handing out your beauty your privacy therefore relies on you up
+11:39
+said
+11:40
+Nico Douga peas all be talking about crypto that was developed in the
+11:44
+eighties nineties
+11:45
+with some more recent stuff you know 2002 2007
+11:49
+but nothing completely was banging so that's great but then the implementation
+11:53
+still need some testing you know i mean the more lies the bed
+11:57
+that going bin Hamad all many years and they're going to be in Iran
+12:00
+you're the best but the other part is that we can continue to in Hans privacy
+12:05
+without facing much in the way political challenges because they appear ready
+12:09
+private
+12:10
+adding privacy doesn't ready to make a difference
+12:13
+and then you got 0.0 cash which is coming soon be promised
+12:17
+so they tell us and again I really like your coins are cash I do think in the
+12:21
+future
+12:22
+it's possible in in 15-20 years time that that's what we'll be using
+12:27
+will be using some wall looked up specifically but some derivative the
+12:29
+little
+12:30
+and that it's great because basically like this big black hole that
+12:34
+all transactions going to no one can tell what's happening
+12:37
+the downside is that the group logo PS so was bangin so in you that it's
+12:42
+completely untested
+12:44
+and that coupled with the big transactional black hole means that a
+12:47
+coin base transaction
+12:48
+well the equivalent to the Queen based on section if there was a bag in the
+12:52
+implementation could spew out
+12:53
+billions a Aug buzz iroquois in and no one would be able to tell
+12:58
+so that's an issue I'm but of course you know they have the same advantage that
+13:02
+they can continue to enhance privacy
+13:04
+so who knows you know the the future is pretty open from that perspective an
+13:08
+hour hold up I hope so that'd
+13:10
+but I do think that it needs a good ten to twenty years with all
+13:13
+up testing and betting reports reason he said
+13:19
+okay so what Minera is and does a no it's not a traditional Spanish breakfast
+13:23
+sausage with somebody actually Aust me
+13:25
+message is the mid-america I'm sure had one for breakfast
+13:28
+blessed know it's so Minera seeks to be truly and China private cash
+13:34
+so like we said its decentralized its electronic and its private
+13:38
+not to be seeking a when we talk about digital currency
+13:41
+lonely you only get you on the spot sometimes you need one but
+13:45
+you know for the most part like charm created cash that was
+13:48
+go tronic in private but it wasn't decentralized
+13:52
+and but quien is decentralize no tronic but not great private school
+13:56
+some in there is trying to do like all three
+14:01
+K so a very brief primer I'm in a risk Republic be because the narrow special
+14:05
+in the transactions of and linkable an untraceable
+14:09
+now when we use the terms and linkable an untraceable it means that that's
+14:12
+within a certain cryptographic key negligible measure of arrests the terms
+14:16
+and in couple an untraceable work with a cryptographic properties and i no way
+14:19
+endorsed by Wikipedia
+14:21
+the Guinness Book of World Records Inc autissier I'm by the hi5 special edition
+14:25
+by using software you agree to indemnify Alice bobbin all the agency not wrap up
+14:29
+in this Oct what might
+14:30
+let me say that because otherwise people go let God
+14:33
+unthinkable and untraceable great second just do whatever I want a new meaning
+14:37
+some testing and
+14:38
+then you got people on the other side of the pond that are going on it's not
+14:41
+really unthinkable untraceable because if you can crack it
+14:44
+256 bit hash then you'd break its and I'm like well if you can crack at 2:56
+14:49
+but has a lot more you can do choose
+14:51
+so home in a row works let's talk about unlink ability for us now
+14:55
+when we say cryptographic key and linkable what we mean the
+14:59
+is that what outgoing transactions if you take to outgoing transactions
+15:03
+it's impossible to prove that they were sent to the same person now a bit going
+15:07
+way back when works and
+15:09
+is usually see vaguely familiar with this considering that a bit going
+15:12
+conference
+15:12
+you got your private key from that to generate the public even you pay to hash
+15:16
+and be pretty much all transactions
+15:20
+gotta pay to that hash but aw destined for that
+15:24
+ash you can you top butts on the block Janelle
+15:27
+okay now with mirrored work-study differently what happens you got to
+15:31
+Jesus been key in a beauty
+15:34
+and you don't publisher has she published the actual public keys you
+15:38
+give them out to people
+15:39
+and in the Zazzle computations magical computation
+15:43
+takes each power obtain are putting will get into the power
+15:46
+10 stuff in a moment home and it's got this little home you know which is
+15:49
+basically just a hash function
+15:51
+me take a and even so you're hot you're public and
+15:54
+let me show you what you intend easy angie is the cryptographic base point
+15:58
+me and then are is this random that you choose
+16:02
+and so because you choose this random it means that we chop but I'll
+16:05
+they appear to be different even though the outputs are going to the same person
+16:10
+so practically and 0 this is how it works
+16:14
+let's say we want to send money now yes
+16:18
+our open after transaction and is a thousand men there that we're using as
+16:21
+an inputs
+16:23
+so what we do is we go okay this is going to the recipient in the break is
+16:26
+up in 2010 descending on 123 Mineiro
+16:29
+UK ok may go to the recipient and as you can see the destination
+16:33
+the appears to be different and that's what recording the Bachchan obviously
+16:37
+it's
+16:37
+longer in real life but you know the purpose is this
+16:41
+so if you look at you go well okay I can see they're going to the recipient
+16:44
+because they're one of the other hand yadda yadda
+16:47
+burn up yes %uh changes coming back in and the change also
+16:51
+looks like it's going to be random recipients into random destinations even
+16:55
+though the change is coming back to us
+16:57
+and when you look at it like this it's really easy cuz Marriott's recipients
+17:01
+not change
+17:03
+but once you do that all that it becomes a little complex
+17:08
+because when you look at the transaction Yukon see the amount that was sent
+17:12
+you can see there was more than one recipient you can see if there was any
+17:15
+change
+17:16
+or you can see is a bunch of putts that appeared to go to your ending
+17:19
+destination
+17:21
+what you hear you ask me a picture your alright
+17:25
+name so that's on traceability now the advantage that the UT gives us is it
+17:30
+actually creates a really nice
+17:32
+I'm regulatory compliance system
+17:34
+the but the advantage is that it's not regulatory compliance like with pat
+17:38
+Quinn way it's like i hey everything's exposed its regulatory compliance and
+17:41
+that you are the one who chooses
+17:44
+to expose your beauty you know compelled to at least not by
+17:48
+not by any technical system which but the government can come knock on your
+17:51
+door and say buddy give me your beauty
+17:53
+and you can choose to hand over your beauty which reveals all your
+17:56
+transactions
+17:57
+or you can go stuff you or you can give them one of your beauties and keep the
+18:00
+other ones a new mattress
+18:02
+and so in that way its it's great because it means that your privacy is
+18:06
+controlled by you
+18:07
+and also for I'm and ordered from an auditing perspective you can handle
+18:11
+yukio bitch in order to
+18:13
+and that order second order to year of the year but the constant your friends
+18:17
+all they can do is do you what you've done and you need to get in it
+18:20
+list of anything used a new key same for charities
+18:24
+charity single well we need public oversight all may be late on in future
+18:28
+governments could do this that could save many public oversight so Bruyere
+18:31
+beauties
+18:32
+go look at across sections mostly work with day and that's obviously like
+18:36
+highly advantageous because it means that from regulate re perspective we got
+18:41
+privacy but then also the ability to you to be compliant with regulation
+18:46
+on the model which means the privacy
+18:49
+is default a revealing your stuff is
+18:52
+optional UK so and traceability
+18:56
+well and traceability what that means that put incoming transactions
+19:00
+the they appear to be multiple senders and
+19:03
+the chance so they are you picking the correct send our love that smile
+19:07
+directly probable so your chances
+19:09
+one in Anaheim in the sand is the upmost so again to picking a good point we have
+19:13
+an input which is a
+19:14
+comes from a previously on Spain transaction output so
+19:18
+we put into the into a transaction we sign it using
+19:22
+s the sick aged 26 K one curve I'm
+19:25
+and
+19:26
+DS a signature and then we can speak in the conduction you can link
+19:30
+inputs back to the previous the unspent outputs now with Minera it's a little
+19:34
+bit different
+19:35
+because basically the there appeared to be multiple possible send is
+19:40
+that go into the single inputs and then we sided with ankle the ring signature
+19:44
+which
+19:45
+use more signatures me on an enemy to pop up 19 could
+19:49
+me and so what that means effectively is that we konden into transactions
+19:53
+back to the previous send so is to go back to top
+19:57
+a practical example yeah we have the one thousand men their input now we're gonna
+20:01
+figure out how we actually got it
+20:03
+so what we did what we've done is we gonna be taken all the one thousand in
+20:07
+there are pics on the bloodshed
+20:08
+one in red is all well that's when we actually hold private key to be
+20:12
+we don't know the private keys the rest today there on the block Jane
+20:15
+we can only see you know the public up but out
+20:18
+the public keys without but I'll sheesh and they will be due to pick a bunch for
+20:22
+them in this case we picked six
+20:23
+and we create this really awesome ring signature all now
+20:27
+in this part of the process we can see that that once the real one
+20:31
+but obviously night on once the ends up in the next transaction week on C which
+20:35
+one of those is the real world
+20:36
+but in order to avoid being able to spend that outputs
+20:40
+more than once we have this thing called the key image which is kinda like a hash
+20:44
+in the private key
+20:45
+little complicated not in this possible Republic be magic but for the purposes
+20:49
+of this discussion
+20:50
+it's like a hasher the private key which means if we had to go and try spending
+20:54
+to gain
+20:55
+we'd end up with a duplicate key image regardless of the state's
+20:58
+that we choose to mix West and that would I be seein be rejected by knows to
+21:02
+Lego your body this key images: already been sent spent
+21:05
+and so effectively what we end up with is that
+21:09
+and that's a typical Minera transactional so
+21:13
+so this is your input it's got this ring signature that was created and by the
+21:16
+way the ring signature claiming credit old-line
+21:18
+you need to be online you need to find PST mix with you just check the blog
+21:22
+changed
+21:23
+and found a bunch about butts and UN okay cool looking mixes East's
+21:26
+and Muscat Oman sizzle the the question of why we have these powers obtained for
+21:30
+each of us
+21:31
+the reason is because if US sending 123 point
+21:35
+9783 Mineiro to somebody chances are you're not going to find someone else to
+21:40
+mix with that use the same amount previously in the block Janelle
+21:43
+but if you're sending it broken on the POS obtained sudden you gotta mix we'll
+21:46
+set that much larger
+21:47
+so so the thing with many areas
+21:52
+yeah i cant so the privacy thing is kinda talking to pain
+21:55
+but it does other stuff to use so for example Mineros like the inflationary
+22:00
+and may have 2022 you begin a end up
+22:03
+getting a minimum blocker Walter 0.3 Minera and will stay that way forever
+22:07
+up which means the mean error is called
+22:11
+technically the term is likely disinflationary because
+22:14
+there's less than one percent inflation but that decreases your own yet
+22:18
+and the reason I we've done this is to retain mining incentives we don't want
+22:21
+to have a situation where
+22:22
+a the transaction fees all that your reliance on
+22:25
+I love mine is our online jobs then we have no block limits
+22:30
+we have a dynamic block the Mets
+22:32
+and what that does is that doesn't look back over the Boston
+22:36
+so days blocks and it's a median block size from that and it is OK
+22:41
+this is the median blocksize the next McInerney be like 20 percent large I'll
+22:46
+and so over time obviously if you create a block a stint when he was in law get
+22:49
+larger than the median goes up psyches
+22:52
+and overtime the block size limit increases just by virtue views
+22:56
+and if somebody had to come along and go well we're gonna like ramp up the block
+23:00
+size by artificially creating
+23:02
+thousands and thousands of transactions that's fine because the minute they run
+23:05
+outta
+23:06
+transaction fees and they stopped the block size limit goes back down
+23:10
+so they're not actually doing anything Sat being irritated
+23:14
+then we have a disconnected architecture which is kinda nice because it means
+23:17
+that you've only got one day man sitting on your computer talking to the network
+23:21
+is and you can run hundreds of wallets and roll I'm on your computer
+23:25
+and or you on your network and they only have to talk to the one single thing
+23:28
+that speaks to the
+23:30
+brought a yet to penetrate which is kinda handy former
+23:34
+all I you know cool from an integration perspective we came from a user
+23:38
+perspective because it means more than a home with an office you need to run one
+23:42
+node
+23:42
+is and we have different cryptography so if you're interested in
+23:46
+hedging against back when scripture which I don't breed think it's an edge
+23:50
+but anyway
+23:52
+we use e.g 5519 and crafty 5519
+23:56
+I'm which is basically Desa so were you saying created by Daniel J burns TN
+24:01
+is and pick on you sick p sick p226 k1
+24:05
+and ECDs a I'm night israelis you period but
+24:08
+if you're into %um paging system against the other than that's that
+24:12
+and we have an accessible people were called rhythm in what we mean by that
+24:16
+is
+24:17
+that at low as the performance gap between CP use GV use if the Jays in a6
+24:22
+so we're not a sick proof there's no such thing the but what we ought is some
+24:27
+in a way like we're a little bit difficultly 16 but a problem all
+24:32
+and we do this by leveraging a SN I extensions in Cebu's amongst other
+24:36
+things email me on and so on all
+24:38
+and the advantages is basically what it means is
+24:41
+I'm it inning whatever ten years time when they offer a six
+24:46
+then CPU mine is will still be okay they weren't make a profits
+24:50
+but they will still be able to mining whereas if you have to try mind that
+24:54
+point today with the seat you all
+24:55
+you know that's a bit of a joke so that some that's kinda bad want ages in that
+25:00
+it allows us to create some cool stuff
+25:02
+all now all obviously they are
+25:05
+I'm some people behind me there besides me and it's the
+25:10
+it but eventually Hama never got started so what happened was there was this dude
+25:13
+on
+25:13
+that point talk back what's day and he launched an air on April 18 2014
+25:18
+and do it a bunch of us have already excited me like oh this is cool what is
+25:23
+this and that was that
+25:25
+didn't use that point in some code was completely different
+25:28
+the I'm it was a fan on so the Kryptonite reference code
+25:32
+me and then thankful for today ended up being kind of a dick
+25:35
+because he didn't listen to the community and then eventually lack of
+25:39
+the
+25:39
+all like the committee voted against tough teams that know I'm gonna do this
+25:42
+and there's nothing you can do to stop me
+25:44
+and so we did stopping by Hawking Nobu
+25:48
+importing the repo and saying a bright pink ship we're not gonna implement that
+25:52
+and so we kinda took it over which is really interesting because it
+25:55
+the seven members are the core team he when sitting around going hey you should
+25:59
+start in all going in fact we didn't even know each other
+26:02
+all untold we ended up with was like
+26:05
+opened at: on the dole we had to raise
+26:08
+and and so basically our oldest you're checking
+26:11
+and
+26:12
+we've the with Greek columns into the fact that
+26:15
+we're just you ads and if we took it from someone his moms can take it from
+26:19
+us so
+26:20
+you don't have a position of power control widget
+26:23
+dead and they are like I said oh seven a bus
+26:27
+and on the 72 oversaw public in terms of
+26:31
+having our real name out there it and the other five
+26:34
+practice of sick to various daughter greater or lesser degree but
+26:39
+some many of them are quite well-known I'm
+26:42
+especially within the public currency community
+26:46
+I'm and there are of course many many many other contributors
+26:49
+I'm we have 25 contributors to the active contributors to you may recall
+26:54
+I'm we've got them in a research lab which are a bunch of academics and they
+26:58
+use usernames
+27:00
+and and then we got community contributors that
+27:03
+do everything from maintaining lists and documentation and
+27:08
+also suggests and adding stuff to the website and then we've got really cool
+27:12
+related software projects I'm the people work on
+27:15
+I'm meanwhile lets and
+27:18
+the mining pool because there was no compatible my nipples of great
+27:22
+I am and in all sorts of other things that tipping box and libraries
+27:26
+I'm PHP and node.js the is the ultimate libraries and also to stop on pipe in my
+27:31
+biz is all
+27:33
+okay and obviously we but possibly need to cover so the way we cover our costs
+27:37
+because we are driving around in Ferrari's
+27:40
+that happens next year good I the way we cover our costs is
+27:44
+always a good general donations and that's just mean people go hey you know
+27:48
+have some but going and they will never go
+27:50
+maple whatever when they send it to us and then we have service donations so
+27:54
+mining pools for example in some services contributes
+27:57
+I'm a portion of the the Prophet us
+28:00
+we have sponsors circuit weird I'm minor axis JetBrains a bunch of others
+28:05
+that contributed licenses and services now hosting and what not
+28:09
+us I'm and then we have this new new thing called the form funding system
+28:13
+way on the Minera forum I'm anady idea can be patched and discussed and then it
+28:19
+can be
+28:20
+can move from just an idea it actually picked up by somebody whether it's the
+28:24
+feature all or a purple service all
+28:27
+sent Lucky Penny to Europe to go into conference is whatever it is
+28:31
+and then that can be funded it is a a little bothered appears in this is well
+28:35
+you know yes they're not abandoning you need in this is how much he raised and
+28:38
+then people can sponsor
+28:39
+specific ventures a specific idea is and then
+28:43
+admission that into to work in progress section and then there's milestones that
+28:47
+can be set and
+28:48
+out so soap in moscow and that's kinda nice because it means that
+28:52
+are all then goes from much should be spent a very meager donations on
+28:57
+up to you overlook people can just contribute to that which is destroying
+29:00
+its
+29:02
+okay and and what we're trying to do is make me a useful and usable
+29:07
+because the Sun staging would actually like it to be grandparents trendy
+29:12
+so what we did more recently is the cradle single open a DS
+29:16
+and you can read more on open a test at all but basically he
+29:20
+it's just an open a missing system but never jus the existing infrastructure
+29:25
+all
+29:25
+at its most basic it's a txt recording DNS record and what that means is that
+29:30
+all I'm week we allow Paul familia para dimes
+29:34
+like paying an email address sichuan really sending anything to an email
+29:38
+address
+29:39
+all you're doing is you're unit changing the accent adoption doing at
+29:43
+TXT record lookup and obviously we need to make sure that there's some security
+29:48
+they're so used ain't DNS sick
+29:50
+and DNS sick is a chain of certificates from the roots
+29:54
+I outwards and if you don't want to use some ICANN's infrastructure no problem
+29:59
+you can use name-calling
+30:00
+and if you're worried about the privacy of you look ups well we have something
+30:03
+called DNS stripped which
+30:05
+is something that Open DNS created and we leverage
+30:08
+and DNA script basically just includes all of your DNS lookups
+30:12
+the advantage being that you ISP doesn't know what you're looking up
+30:15
+so you can make payments to you wreck at Exit Moda
+30:18
+act or donate but couldn't get near it at all
+30:21
+and no one knows and this is currently implemented an election
+30:25
+election 2.0 because it's not just common error its cool
+30:28
+it going and any other could guarantee infect the protocol that needed
+30:32
+implements its so election music from election 2.0 on Weds
+30:36
+and then I'm more there's a a wet one its
+30:40
+wind up space that also use it no obvious the merits of you lots
+30:46
+and we was a bean
+30:50
+trying to you I mean up at the one thing that that that mean their struggles a
+30:53
+bit with is I'm
+30:55
+at the moment it is Kaman line 0 nly we you have a bunch a third party
+30:59
+I'm grease but I miss the usability is a bit of an issue for people because
+31:04
+me apparently come online tools already ought to use your news
+31:07
+so it so we have my mean they're dot com and that's the way it while it's
+31:12
+it's currently the only way while it because I mean airway well it is kinda
+31:15
+that checking to do you I'm but that's a love handles the
+31:20
+accessibility Japanese in the short term and then also I'm getting there at all
+31:24
+which is our website
+31:26
+we've tried to and and is it on the content the still needs to be done by
+31:29
+the community but we've tried to make it
+31:32
+I'm easy for newcomers to read in an accessible and
+31:36
+that you know its name things in in reasonably simple terms
+31:40
+I'm because technical people are gonna go straight it back but going to look
+31:43
+horrible
+31:44
+and surveyed either website just looked like music oh my god I don't even know
+31:48
+what this is
+31:48
+explain it to me and we are of course working on agree
+31:52
+but we're working on it slowly because well I mean you know
+31:55
+we don't get paid is at so we we do any work as a man week and
+32:00
+but we started with wireframes an immediate attention designs for
+32:03
+components
+32:04
+and that's kinda what we ended up with and the codes up but it's not that close
+32:08
+up and it's the networking a snow white up in this
+32:11
+sunscreen just need to be done but it is kinda pretty and
+32:14
+and we think it'll be nice and useful and usable
+32:19
+so course the future Minera lost me because miracle 1.0 will be able to bake
+32:24
+your cake and eat it for you
+32:26
+almost
+32:28
+so what we're doing next is some
+32:32
+is very interesting in this the a lot of making the slide and
+32:35
+you know so the greeted you and diamond we got our Design and Development Goals
+32:40
+up on the website and they make you understand me too
+32:42
+shit but we doing a lot of stuff with the Queen basis to daughter chains
+32:46
+and we doing a lot of work with I'm library Ising
+32:50
+and all other it all the functions Cola ko punch ins
+32:53
+so instead of relying on you know hooking up by I'm
+32:57
+0 MQ RPC huge actually make calls
+33:01
+developers will be able to just drop macomb in their library intern
+33:04
+application and use its
+33:06
+only working on support which is more painful than anything I've ever done in
+33:10
+my entire life but soon you'll be able to draw sleep I'm in a row
+33:16
+and that is pretty much it thank you very much
+33:18
+any questions Wes
+33:25
+ball
+33:27
+myer well sports
+33:30
+I notable ok a
+33:34
+0 whatever sections to be at a scripting language embed it like that going nuts
+33:38
+this
+33:39
+making smart comports with them yeah we've got its very lightweight scripting
+33:42
+language so
+33:43
+so desire mes some scope for that
+33:46
+but I'll probably people was locked contracts because %uh the limitations or
+33:51
+the like which got 29 which
+33:52
+will do that and go to change rather than trying to get on main chain
+33:56
+I'm but the other is a scripting language so so you can do multi said for
+34:00
+example
+34:01
+although there's nothing that supports it and there is some limitations to be
+34:05
+MultiSync that slow and ring signatures that because the resulting
+34:09
+so yeah pro-choice also quite little bit that
+34:13
+ya general yep for is 10 a.m.
+34:17
+battle with all you that welcome like liking that work
+34:21
+so mean we looked at the Lightning at work in this some stuff that
+34:24
+let me find very interesting about the lighting at work but we r
+34:27
+so far away from you looking at at
+34:31
+implement anything like that that it's not even worth taking a serious look at
+34:35
+because we just be wasting our time
+34:36
+I'm what we are doing because we also do realize I'm
+34:40
+recognize the need for close to transactions not so the thing that
+34:43
+he got an experimental bought the chain which is so very i mean is that
+34:47
+it is but great radio code has been written but the idea is
+34:51
+that it will exist in parallel and settle back to the main chain on a daily
+34:55
+basis
+34:55
+and that is extremely Boston steamy light and can be discarded
+35:00
+you know all the pieces actions can be discarded every day so
+35:03
+so that's what we're looking at some playing around with because yet the
+35:06
+advantages daughter changes that not every single node needs to support them
+35:10
+so you can actually end up with like like really high-performance servers all
+35:14
+over the world that are supporting
+35:16
+list
+35:16
+particular chain and and it's all backed by the main chain
+35:20
+Anissa pigs in the main chain so anyway it is this stuff like that that might
+35:24
+when we get down to it it might not spell necessitates
+35:29
+need something like the Lightning it more habitat traditional so they haven't
+35:33
+spoke system but we'll see
+35:34
+similar me who all Orleans exits
+35:38
+at yes but book trying all bit point so so we've got a
+35:42
+we will muscle TX extra field I'm in a row which is bigger than opportunity
+35:47
+and you know you can shove me to date and that the extra
+35:50
+so there's nothing stopping anyone from doing a color coincident like
+35:54
+implementation and
+35:55
+up the downside of course would be that it'd be usable because Texas is not
+36:00
+all it's not good at all last look around too many think so it's also
+36:03
+like with that we've gotten their assets to be playing around with Google
+36:07
+and that but I mean we're talking about something coming up people yes not
+36:10
+neutral Aki
+36:11
+and and that we'll will have asset classes as separate chains and you'll be
+36:15
+able to do the
+36:16
+I'm federated pegging back to the main chain or you'll be able to do the
+36:20
+I'm swaps between chains not so that that so we ought to solve the the acid
+36:24
+issue but
+36:24
+maybe not necessarily by shuffling stuff into the main chain unnecessary the
+36:29
+at fun movie to a new expensive words can explain that
+36:33
+out say that mining a at all but safety is quite but
+36:38
+mining instructor is yeah this point already say that since
+36:41
+I'm not I don't believe any going to say fix it but going by Paul
+36:45
+Wikia me to be honest you know the the Naser a reasonable amount to pass rates
+36:50
+and it wouldn't be cheap to attack
+36:52
+but for a motivated attack a with them with the money in the bank they could
+36:56
+detect
+36:57
+the the mining into it quite Tribune the especially because
+37:01
+all they need to do is go buy a bunch like TV use you know that many many
+37:04
+specialized equipments
+37:05
+so so it's some if you're looking for like
+37:09
+like super like insane amount so of transactional safety on an ongoing basis
+37:14
+probably not the the best place to be right now at least not until
+37:18
+you know it's matured in the the money it would be growing
+37:21
+but if you're looking to you as a safe store a valued
+37:24
+you know then it's different because I mean you you put it into a cold wallets
+37:27
+and then
+37:28
+it's not exposed to issues with the mining at record it up
+37:32
+of you call you
+37:35
+yes since I'll was the whole
+37:39
+have you considered making me be calling some level
+37:42
+like go ok
+37:45
+the week the bases you look I mean look
+37:49
+so these two things I mean is the side of the side chain about being a puddle
+37:52
+Jair is the side chain approach and and I mean we spoke with such an guys
+37:57
+and the watching lies in you these people climb and when it up
+38:01
+us and and I like side chains but I like such an so that going
+38:05
+I'm the issue that I have with that is that then means our success or failure
+38:10
+is
+38:11
+indelibly linked to that point and
+38:14
+at all of any more than anything else and what I'd like to see
+38:18
+is a future with it regardless of what happens at the Queen
+38:23
+West Laurent Blanc and and I fear that
+38:26
+making paying us all to you bitcoins
+38:30
+mining it yet would but I said rest I'm on mole in more ways than one
+38:34
+who lookbook backing up on be all you
+38:37
+prevent that while back on or chrome
+38:40
+I mean like we were lost we could we could at a at a particular point we
+38:45
+could shove a
+38:46
+I am block ashen keep into the plains
+38:50
+chained reality is that I don't think that any
+38:53
+lightening we can build an automated system to check that
+38:56
+because I'm we didn't have to assume that people running the the Queen
+39:02
+Damon low-key and I don't have anyone going to manually check it because
+39:06
+people are lazy
+39:08
+but but I do i mean it is a good idea I mean be done some other stuff
+39:11
+I'm on the checkpoint in the check point inside all I'm
+39:14
+we you said we basically put checkpoints I'm
+39:17
+like informational checkpoints into TXT records on the bench to the mains
+39:22
+and then those prosecuted the NSA and
+39:26
+basically you actin it's just informational so you know if you
+39:29
+end up in a ball minutes ago I A you know I'm that this
+39:33
+but you can also enable and enable I'm
+39:36
+forcing compliance with those DNS checkpoints
+39:39
+so we have done some stuff like that City prevents
+39:42
+I'm rewinds in the tax and that sort of thing a I
+39:45
+and we're actually at the moment busy fiddling around with them
+39:48
+at been a difficult the algorithm cause we we talk a little bit block basis
+39:53
+but some I think it's it at the end of the day it does require stronger mining
+39:58
+at work
+39:58
+we're gonna somehow be you know or what we do is a
+40:01
+as a backup one simple question
+40:04
+arm wines that the pigeon
+40:08
+bozo then seems to be thoughtful I'm
+40:12
+well look the so so they we could cut that down to the
+40:16
+I like 23 and 5 you know whatever to
+40:19
+because you can make up most numbers from that all um backs
+40:22
+and and that would give us a large a mic settle some things
+40:25
+but at the end today did the powers of 10
+40:28
+whatever reason there in that moment and and the only way you
+40:32
+ninety change would want to make with that in the future is to go to a smaller
+40:36
+but
+40:36
+I'm said to domination netball Lodge in excess
+40:40
+that but that being said even people like really obscure denominations like
+40:45
+30,000 Mineiro I'm days at the reason
+40:48
+mixing sets so because you know that it's like that never gets painted long
+40:52
+as
+40:53
+it's been spent you know but others than in a green overspent small
+40:58
+cool in the ass
+41:03
+um everything is anonymous dennis is
+41:06
+am I able to check polo money like going wrote
+41:10
+yeah because remember you still see the Queen Bess transactional so
+41:13
+so you can see you going this transaction is going to be
+41:16
+but you can count them up on a block by block basis which
+41:19
+is obviously advantageous as well because it means that it is an
+41:23
+implementation detail yet
+41:24
+we can spot somebody creating not only will it yet but
+41:28
+good do you be months that you want and
+41:34
+for about Orleans on some other developments today
+41:37
+doesn't mean that that's one of the hardest on day
+41:40
+out like no other network that would point to yell the hype that
+41:44
+me if he suddenly got you Burton
+41:47
+developed and all yet all you think liked it better when the accelerate
+41:51
+its tale about that while you up the the development is I'm is one thing but in
+41:56
+the research side is another
+41:57
+I'm and the two go hand in hand like the
+42:00
+the them in a research lab guys some of them do some development as well but for
+42:04
+the most part they are
+42:06
+academics and so they're focused more on the
+42:09
+on the theory which is which is great basin sink yakking you're not a lot
+42:13
+absolutely is all
+42:14
+yeah so so but we need the research you know because the research
+42:17
+tends to identify problems that we don't think about because they run simulations
+42:21
+monarchist
+42:22
+and then his actual implementation and and I suppose
+42:25
+if there was a surge in developing interest that's great because then the
+42:28
+developments I did pick up and has lots of cool stuff that we could do you
+42:32
+but but the research side within lag you know but Norman you get a bit boats
+42:36
+you know it so see i mean if there was
+42:38
+sudden interest and and a lot of people and not take
+42:41
+not only in usage but in in on tribunal then we could dip in the sale things
+42:45
+from that perspective quite easy
+42:50
+where their
+42:52
+or what there or all
+42:56
+that sickness what we're all
+43:00
+work that mining probably going now
+43:04
+I ever where are the second person
+43:08
+week by week by I send why spend money
+43:11
+at by tomorrow a where do I send it on
+43:14
+yet that to all bets a combat possible
+43:18
+y'all okay so it's ok this question first I'm
+43:21
+the cheapest way to get an error I would imagine would be mining
+43:25
+I'm the mining at work I'll
+43:28
+I mean money with GV use at the moment is reasonably I i think is massively
+43:32
+profitable but you break even at least
+43:34
+um and and so I think that's probably the
+43:38
+like if you if you happen to have like 20 GB use lying around think that's
+43:41
+probably the the easy at the the cheapest let
+43:44
+I'm overpaid time for more immediate demand what is a bunch of exchanges you
+43:49
+know baloney X as its
+43:50
+Betty T-rex as a me and a couple others in second on the site
+43:55
+the not what he doesn't call its
+43:58
+remember it's not some folks from that point so we don't have because of the
+44:01
+capi
+44:02
+we don't a block notify we don't want to notify so exchanges go
+44:06
+I'm sorry you want me to do what couldn't and then they get very confused
+44:10
+and you can speak to someone is actually integrated Mineiro from scratch into
+44:14
+service and
+44:15
+it we had lots of angry words to say I
+44:20
+over how difficult it was its it's not easy because it's I'm
+44:23
+the is a lack of documentation any you know the libraries that ought not make
+44:27
+it a lot easier but it's so painful
+44:29
+so it's a couple any expert T-rex in a couple others Milotic and some others
+44:34
+um the downside of course is that baloney X is now just recently
+44:38
+introduced
+44:38
+I'm some AMC s a.m. okay I see stuff
+44:42
+that
+44:44
+for up to i think is two thousand dollars a day
+44:47
+is the is the entry-level limits and all you need to give them a
+44:50
+it by members like your name and email address all you name it by members I'm
+44:54
+just using that someone who
+44:55
+what we gonna do you um but yeah I mean that's that's unfortunately the the
+45:00
+inevitable
+45:02
+and inimitable thing that happens in dealing with exchanges
+45:05
+I'm a t-rex I think will eventually go that way as well said based in the US
+45:10
+I'm so ya think all it in the in the end it depends on
+45:14
+on what your I'm what your risk thresholds like
+45:17
+you know it you don't really K because once you got it in many road then
+45:22
+everything from there on out is irrelevant I'm then you know you Newegg
+45:25
+just using Exchange if you do can you worried about in mind
+45:29
+cool
+45:32
+anything else you got a question you he's asked about documentation
+45:37
+big but what about what is your ETA I like running at all
+45:43
+include how many hours a week go into OT job openings than
+45:47
+bill so you know I wake up in my mansion on
+45:50
+go to the pic map so it some
+45:53
+it is tricky you know like it is especially over the
+45:57
+over the the first saloon year pay I one in the challenges was that we had people
+46:03
+like hammering out some stuff all that I'll like our our priorities shifted
+46:08
+every day because then then this happened in that happened this person
+46:11
+needs less than oh my god how does mean there are not have agree
+46:14
+or of connects is on my smartphone I'll NBA we had an attack
+46:18
+there was somebody that figured out to an exploit I'm
+46:21
+that was loan expert ready but just wait a fork in it work
+46:24
+because of some from pussy toyed that
+46:27
+that just ended up basically like not being able to do you could use the same
+46:32
+hash
+46:33
+all a very large block I'm on each computer
+46:37
+and and that was a problem because suddenly the network for
+46:40
+the Saturday morning at like 3 o'clock in the morning or something
+46:44
+and I wasn't fun resolved itself in 35 minutes and the next action mall
+46:49
+but still it was at this message so it
+46:52
+and that doesn't that has already changed I mean it's it's calm down now
+46:54
+because we've had this
+46:56
+this initial flurry all a people who expected the price to shoot up to like
+47:00
+five billion dollars over night
+47:02
+and they've fallen away because a lack of interest
+47:06
+and that's been really advantageous because it means that we no longer have
+47:09
+constant pressure from
+47:11
+people who actually have no idea what it's like to do developmental
+47:14
+we um but there's a it
+47:17
+the possible that already interesting in the possible that are really annoying
+47:20
+but for the most popular typical day is like just have RC open in the back on
+47:24
+because
+47:25
+the most awesome thing you know check the forums apply to stuff because
+47:29
+the like sometimes as people saying idiotic stuff awesome questions that no
+47:33
+one's on said yea
+47:34
+I and then like that's probably like three hours of my day everyday
+47:39
+this like reading catching up all I'm stuff I missed overnight when
+47:43
+I went to see but if I could avoid sleeping anti-gay
+47:46
+and and then just you know it back black also emerges that's a that's what I can
+47:51
+you topics at the moment is
+47:53
+people submit pull requests and the know when tests
+47:56
+be I'm gonna go and Mac okay namaste is that Windows BBS the
+48:01
+by six 32-bit Windows 8 line-x that he did it
+48:04
+you know I mean like next minute its taking you back to our status when Paula
+48:08
+costs
+48:08
+so that gets frustrating as well and this is stuff that we're trying to do
+48:12
+I'm do to make that prices yet but it its
+48:15
+there's a lot of that stuff is low so the chunky black ongoing stuff
+48:19
+I'm and and and at the same time is still select do you like
+48:23
+continues integration infrastructure Sydney
+48:25
+don't up to taste everything manually but yeah it's
+48:29
+that's fine and incredibly infuriating it sensible
+48:33
+the you
+48:37
+haha wah
